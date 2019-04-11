@@ -19,3 +19,10 @@ A - Shoot/Start
     out of money. You spent it all at the one game. You now don't have any money
     in your bank account so you go home and start crying in the bathtub while
     eating hot cheetos. You just wish you could go back and play it again.
+
+# Additional Information
+Each enemy is 1 point and takes 1 hit to kill them.                            
+You can take a total of 4 hits but 3 to still be alive.                        
+
+# Game Play
+
