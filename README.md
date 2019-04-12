@@ -25,4 +25,4 @@ Each enemy is 1 point and takes 1 hit to kill them.
 You can take a total of 4 hits but 3 to still be alive.                        
 
 # Game Play
-![Let's Play](https://github.com/DrOceanMan/Space-War/blob/master/gameplay.png)
+![Let's Play](https://raw.githubusercontent.com/DrOceanMan/Space-War/master/gameplay.png)
