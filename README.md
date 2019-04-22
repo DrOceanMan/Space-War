@@ -28,4 +28,4 @@ You can take a total of 4 hits but 3 to still be alive.
 ![Let's Play](https://raw.githubusercontent.com/DrOceanMan/Space-War/master/gameplay.png)
 
 # Download
-[Game](
+[Game](https://github.com/DrOceanMan/Space-War.git)
